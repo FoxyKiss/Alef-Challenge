@@ -1,0 +1,12 @@
+.product-stars__button {
+  width: 12px;
+  min-height: 12px;
+  list-style: none;
+  border: none;
+  background: url(../../../images/star.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  margin: 0 2px 0 0;
+}

@@ -1,0 +1,6 @@
+.product__price-info {
+  max-width: 190px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}

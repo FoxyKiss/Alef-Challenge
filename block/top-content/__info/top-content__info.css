@@ -1,0 +1,11 @@
+.top-content__info {
+  max-width: 420px;
+  width: 100%;
+  min-height: 612px;
+}
+
+@media screen and (max-width: 770px) {
+  .top-content__info {
+     max-width: 300px;
+  }
+}

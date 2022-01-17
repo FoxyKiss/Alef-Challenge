@@ -1,0 +1,12 @@
+.product__description-article {
+  max-width: 100px;
+  width: 100%;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.04em;
+  border: 1px solid #000000;
+  color: #828282;
+  margin: 0 0 16px 0;
+  padding: 0;
+}

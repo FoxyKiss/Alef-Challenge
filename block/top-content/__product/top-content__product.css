@@ -1,0 +1,16 @@
+.top-content__product {
+  max-width: 420px;
+  width: 100%;
+  min-height: 612px;
+  background-image: url(../../../images/product.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+@media screen and (max-width: 790px) {
+  .top-content__product {
+     max-width: 350px;
+  }
+}

@@ -1,0 +1,16 @@
+.product-options__list-button {
+  max-width: 150px;
+  width: 100%;
+  list-style: none;
+  border: none;
+  background: #ffff;
+  text-align: start;
+  text-decoration: underline;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0;
+}
+
+.product-options__list-button:hover {
+  color: gray;
+} 

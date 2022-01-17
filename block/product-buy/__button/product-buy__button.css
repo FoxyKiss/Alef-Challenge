@@ -1,0 +1,17 @@
+.product-buy__button {
+  list-style: none;
+  border: none;
+  background: #ffff;
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: 0.5s;
+  margin: 12px 0 0 0;
+}
+
+.product-buy__button:hover {
+  color: gray;
+}

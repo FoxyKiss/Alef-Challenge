@@ -1,0 +1,12 @@
+.arrow_bottom-button {
+  width: 24px;
+  min-height: 24px;
+  list-style: none;
+  border: none;
+  background: url(../../images/arrow\ down\ swipe.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+}

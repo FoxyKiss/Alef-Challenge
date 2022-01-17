@@ -1,0 +1,13 @@
+.bag-add-button {
+  max-width: 170px;
+  width: 100%;
+  min-height: 44px;
+  list-style: none;
+  border: none;
+  background: #333333;
+  cursor: pointer;
+  color: #ffff;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+}

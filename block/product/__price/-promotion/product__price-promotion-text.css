@@ -1,0 +1,10 @@
+.product__price-promotion-text {
+  max-width: 90px;
+  width: 100%;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  border: 1px solid #333333;
+  margin: 0;
+}

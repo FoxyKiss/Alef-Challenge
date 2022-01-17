@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./index.css">
+  <link rel="stylesheet" href="./fonts/OpenSans/stylesheet.css">
+  <title>Alef Challenge</title>
+</head>
+
+<body>
+  <div class="page">
+    <header class="header">
+      <img class="header__logo logo" alt="logo" src="./images/LOGO.png">
+      <ul class="header__taskbar">
+        <li class="header__taskbar-element">
+          <button class="header__taskbar-button person-button"></button>
+        </li>
+        <li class="header__taskbar-element">
+          <button class="header__taskbar-button favorites-button"></button>
+        </li>
+        <li class="header__taskbar-element">
+          <button class="header__taskbar-button bag-button"></button>
+        </li>
+        <li class="header__taskbar-element">
+          <button class="header__taskbar-button menu-button"></button>
+        </li>
+      </ul>
+    </header>
+    <div class="content">
+      <section class="top-content">
+        <div class="top-content__product">
+          <ul class="top-content__product-gallery">
+            <li><img class="gallery-image" alt="Product image" id="gallerySmallImage" src="./images/product.png"></li>
+            <li><img class="gallery-image" alt="Product image" id="gallerySmallImage" src="./images/gallery2.png"></li>
+            <li><img class="gallery-image" alt="Product image" id="gallerySmallImage" src="./images/gallery3.png"></li>
+            <li><img class="gallery-image" alt="Product image" id="gallerySmallImage" src="./images/gallery4.png"></li>
+            <li><img class="gallery-image" alt="Product image" id="gallerySmallImage" src="./images/gallery5.png"></li>
+          </ul>
+        </div>
+        <div class="top-content__info">
+          <div class="product">
+            <div class="product__description">
+              <h2 class="product__description-title">Пижама для девочек</h2>
+              <p class="product__description-article">Арт. 02765/46</p>
+              <div class="product__description-review">
+                <p class="product-review">Отзывы</p>
+                <ul class="product-stars">
+                  <li><button class="product-stars__button"></button></li>
+                  <li><button class="product-stars__button"></button></li>
+                  <li><button class="product-stars__button"></button></li>
+                  <li><button class="product-stars__button"></button></li>
+                  <li><button class="product-stars__button"></button></li>
+                </ul>
+                <p class="product-review">14 Отзывов</p>
+                <button class="product__description-button arrow_right-button"></button>
+              </div>
+            </div>
+            <div class="product__price">
+              <div class="product__price-info">
+                <h1 class="product__price-info_title">800 &#8381</h1>
+                <p class="product__price-info_subtitle">1500 &#8381</p>
+                <button class="product__price-info-button arrow_right-button"></button>
+              </div>
+              <div class="product__price-promotion">
+                <p class="product__price-promotion-text">скидка -36%</p>
+                <p class="product__price-promotion-text">акция -20%</p>
+              </div>
+            </div>
+            <div class="product__buy-options">
+              <div class="product-size">
+                <div class="product-size__select">
+                  <h3 class="product-size__select-text">Выбрать размер</h3>
+                  <button class="product-size__button arrow_bottom-button "></button>
+                </div>
+                <button class="size_difine-button">Определить размер</button>
+              </div>
+              <div class="product-buy">
+                <div class="product-buy__add-buttons">
+                  <div class="bag-plus-buttons">
+                    <button id="plusButton" class="bag-plus-button">+</button>
+                    <p class="bag-count-text">1</p>
+                    <button id="minusButton" class="bag-plus-button">-</button>
+                  </div>
+                  <button class="bag-add-button">Добавить в корзину</button>
+                  <button class="favorites-add-button"></button>
+                </div>
+                <button class="product-buy__button">Купить в 1 клик </button>
+                <p class="product-buy__notification">Товар в количестве 2 штук добавлен в корзину.</p>
+              </div>
+            </div>
+            <div class="product-options">
+              <ul class="product-options__list">
+                <li><button class="product-options__list-button"><img src="./images/tshirt.png" alt="icon"
+                      class="product-options__list-image">Описание товара</button></li>
+                <li><button class="product-options__list-button"><img src="./images/clock.png" alt="icon"
+                      class="product-options__list-image">Доставка и возврат</button></li>
+                <li><button class="product-options__list-button"><img src="./images/card.png" alt="icon"
+                      class="product-options__list-image">Способы Оплаты</button></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bottom-content">
+        <button class="bottom-content-button">Посмотреть все стили</button>
+        <div class="bottom-content__gallery">
+          <img class="gallery-image big-size-image" src="./images/gallery6.png" alt="Gallery image">
+          <img class="gallery-image" src="./images/gallery7.png" alt="Gallery image">
+          <img class="gallery-image" src="./images/gallery8.png" alt="Gallery image">
+          <img class="gallery-image" src="./images/gallery9.png" alt="Gallery image">
+          <img class="gallery-image" src="./images/gallery10.png" alt="Gallery image">
+        </div>
+      </section>
+    </div>
+    <footer class="footer">
+      <div class="footer__links">
+        <div class="buyer-links">
+          <h3 class="links-title">Покупателям</h3>
+          <a class="link" href="#">Каталог</a>
+          <a class="link" href="#">Акции</a>
+          <a class="link" href="#">Бренды</a>
+        </div>
+        <div class="about-us-links">
+          <h3 class="links-title">О нас</h3>
+          <a class="link" href="#">О компании</a>
+          <a class="link" href="#">Новости</a>
+          <a class="link" href="#">Команда</a>
+        </div>
+      </div>
+      <form class="footer__form">
+        <h2 class="footer__form-title">Узнайте первым о новинках и акциях</h2>
+        <input class="footer__form-input" type="email" placeholder="Адрес электронной почты">
+        <button class="footer__form-button">Подписаться</button>
+      </form>
+    </footer>
+    <div class="popup">
+      <button class="popup__close-button"></button>
+      <p class="popup__text">Постельное бельё</p>
+      <p class="popup__text">Одежда для дома</p>
+      <p class="popup__text">Одежда для улицы</p>
+      <p id="closeLink" class="popup__text">Выход</p>
+    </div>
+  </div>
+  <script src="./index.js"></script>
+</body>
+
+</html>

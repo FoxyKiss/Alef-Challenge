@@ -1,0 +1,86 @@
+@import url(./block/page/page.css);
+@import url(./block/gallery-image/gallery-image.css);
+@import url(./block/logo/logo.css);
+@import url(./block/big-size-image/big-size-image.css);
+@import url(./block/popup/popup.css);
+@import url(./block/popup/__text/popup__text.css);
+@import url(./block/popup/__close-button/popup__close-button.css);
+/* Header */
+@import url(./block/header/header.css);
+@import url(./block/header/__taskbar/header__taskbar.css);
+@import url(./block/header/__taskbar/header__taskbar-element.css);
+@import url(./block/header/__taskbar/header__taskbar-button.css);
+@import url(./block/header-button/header-button.css);
+/* Content & Top-content */
+@import url(./block/content/content.css);
+@import url(./block/top-content/top-content.css);
+@import url(./block/top-content/__product/top-content__product.css);
+@import url(./block/top-content/__product/top-content__product-gallery.css);
+@import url(./block/top-content/__info/top-content__info.css);
+
+/* Product */
+@import url(./block/product/product.css);
+@import url(./block/product/__description/product__description.css);
+@import url(./block/product/__description/product__description-title.css);
+@import url(./block/product/__description/product__description-review.css);
+@import url(./block/product/__description/product__description-article.css);
+@import url(./block/product/__price/product__price.css);
+@import url(./block/product/__price/-info/product__price-info.css);
+@import url(./block/product/__price/-info/product__price-info_subtitle.css);
+@import url(./block/product/__price/-info/product__price-info_title.css);
+@import url(./block/product/__price/-promotion/product__price-promotion.css);
+@import url(./block/product/__price/-promotion/product__price-promotion-text.css);
+@import url(./block/product/__buy/product__buy-options.css);
+/* Product-buy */
+@import url(./block/product-buy/__notification/product-buy__notification.css);
+@import url(./block/product-buy/__add/product-buy__add-buttons.css);
+@import url(./block/product-buy/__button/product-buy__button.css);
+
+/* Product review */
+@import url(./block/product-review/product-review.css);
+
+/* Product stars */
+@import url(./block/product-stars/product-stars.css);
+@import url(./block/product-stars/__button/product-stars__button.css);
+
+
+/* Bottom content */
+@import url(./block/bottom-content/bottom-content.css);
+@import url(./block/bottom-content/__gallery/bottom-content__gallery.css);
+@import url(./block/bottom-content/-button/bottom-content-button.css);
+
+/* Footer */
+@import url(./block/footer/footer.css);
+@import url(./block/footer/__links/footer__links.css);
+@import url(./block/footer/__form/footer__form.css);
+@import url(./block/footer/__form/footer__form-title.css);
+@import url(./block/footer/__form/footer__form-input.css);
+@import url(./block/footer/__form/footer__form-button.css);
+
+/* Links */
+@import url(./block/buyer-links/buyer-links.css);
+@import url(./block/links/link.css);
+@import url(./block/links/links-title.css);
+@import url(./block/links/about-us-links.css);
+
+/* Product size */
+@import url(./block/product-size/product-size.css);
+@import url(./block/product-size/__select/product-size__select.css);
+@import url(./block/product-size/__select/product-size__select-text.css);
+
+/* Content buttons */
+@import url(./block/content-button/arrow_bottom-button.css);
+@import url(./block/content-button/size_difine-button.css);
+@import url(./block/content-button/bag-plus-button.css);
+@import url(./block/content-button/bag-plus-buttons.css);
+@import url(./block/content-button/bag-add-button.css);
+@import url(./block/content-button/favorites-add-button.css);
+@import url(./block/content-button/arrow_right-button.css);
+
+/* Product options */
+@import url(./block/product-options/product-options.css);
+@import url(./block/product-options/__list/product-options__list.css);
+@import url(./block/product-options/__list/product-options__list-image.css);
+@import url(./block/product-options/__list/product-options__list-button.css);
+@import url(./block/visible-plague/visible-plague.css);
+

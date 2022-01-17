@@ -1,0 +1,16 @@
+.page {
+  max-width: 1390px;
+  width: 100%;
+  min-height: 1000px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Open Sans';
+}
+
+@media screen and (min-width: 1400px) {
+  .page {
+     margin: auto;
+  }
+}

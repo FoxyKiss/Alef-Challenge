@@ -1,0 +1,8 @@
+.product__price-info_subtitle {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration-line: line-through;
+  color: #828282;
+  margin: 0 12px 0 12px;
+}

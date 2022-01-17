@@ -1,0 +1,17 @@
+.bottom-content-button {
+  list-style: none;
+  border: none;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: underline;
+  background: white;
+  cursor: pointer;
+  transition: 0.5s;
+  margin: 0 0 28px 0;
+}
+
+.bottom-content-button:hover {
+  color: gray;
+} 

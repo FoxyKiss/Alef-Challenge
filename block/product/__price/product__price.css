@@ -1,0 +1,5 @@
+.product__price {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}

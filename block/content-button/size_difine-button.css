@@ -1,0 +1,18 @@
+.size_difine-button {
+  font-family: 'Open Sans';
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: underline;
+  text-align: start;
+  border: none;
+  background: white;
+  cursor: pointer;
+  transition: 0.5s;
+  padding: 0;
+  margin: 12px 0 0 0;
+}
+
+.size_difine-button:hover {
+  color: gray;
+}

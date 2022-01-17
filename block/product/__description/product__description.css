@@ -1,0 +1,12 @@
+.product__description {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media screen and (max-width:790px) {
+  .product__description {
+     max-width: 300px;
+  }
+}

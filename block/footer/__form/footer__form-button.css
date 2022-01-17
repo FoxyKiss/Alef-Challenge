@@ -1,0 +1,12 @@
+.footer__form-button {
+  max-width: 150px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 36px;
+  text-align: center;
+  background: white;
+  border: 1px solid #333333;
+  cursor: pointer;
+  padding: 0;
+  margin: 0 0  0 220px;
+}

@@ -1,0 +1,6 @@
+.buyer-links {
+  max-width: 210px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}

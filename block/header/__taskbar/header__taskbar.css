@@ -1,0 +1,9 @@
+.header__taskbar {
+  max-width: 168px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

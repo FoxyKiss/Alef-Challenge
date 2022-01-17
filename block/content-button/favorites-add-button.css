@@ -1,0 +1,14 @@
+.favorites-add-button {
+  max-width: 44px;
+  width: 100%;
+  min-height: 44px;
+  list-style: none;
+  border: none;
+  background: url(../../images/like.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #333333;
+  cursor: pointer;
+  padding: 0;
+  margin: 0 0 0 4px;
+}

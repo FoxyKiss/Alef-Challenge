@@ -1,0 +1,11 @@
+.product-buy__notification {
+  visibility: hidden;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 20px;
+  color: green;
+  opacity: 0;
+  transition:  0.7s linear;
+  padding: 0 0 0 6px;
+  margin: 0;
+}

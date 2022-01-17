@@ -1,0 +1,15 @@
+.bag-plus-button {
+  width: 24px;
+  min-height: 24px;
+  list-style: none;
+  font-size: 14px;
+  line-height: 20px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0 0 0 10px;
+}
+.bag-plus-button:nth-of-type(2) {
+  margin: 0 10px 0 0;
+}

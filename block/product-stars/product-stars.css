@@ -1,0 +1,9 @@
+.product-stars {
+  max-width: 70px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0 4px 0 0;
+  padding: 0;
+}
